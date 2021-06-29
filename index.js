@@ -43,4 +43,20 @@
     // }
 
 //Pattern 3
+    // for (let i = 1; i <= 5; i++) {
+    //     for (let j = 1; j <= 10; j++) {
+    //         if(i==1 | i==5){
+    //             document.write("*");
+    //         }else{
+    //             if(1<i<5){
+    //                 if(j==1 | j==10 ){
+    //                     document.write("*");
+    //                 }else{
+    //                     document.write("_");
+    //                 }
+    //             }
+    //         }
+    //     }
+    //     document.write("<br>");
+    // }
    
