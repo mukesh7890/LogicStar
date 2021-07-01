@@ -59,4 +59,29 @@
     //     }
     //     document.write("<br>");
     // }
+
+//Pattern 4
+    // for (let i = 1; i <= 5; i++) {
+    //     for (let j = 1; j <= 5; j++) {
+    //         if (i >= j) {
+    //             document.write("*");
+    //         }else{
+    //             document.write(" ");
+    //         }
+    //     }
+    //     document.write("<br>");
+    // }
+
+//Pattern  5  not complete
+    for (let i = 1; i <= 5; i++) {
+        for (let j = 5; j >= 1; j--) {
+            if (i+1<=j-i && j) {
+                document.write("*");
+            }else{
+                document.write("*");
+            }
+        }
+        document.write("<br>");
+    }
+
    
